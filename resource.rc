@@ -1,0 +1,4 @@
+#include "pliki.h"
+id_icon ICON ico32.ico
+id_wava WAVE "a.wav"
+id_wavb WAVE "b.wav"
